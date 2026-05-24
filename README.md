@@ -131,7 +131,7 @@ src/main/java/com/kafkafka/
 
 ### 1. Clone and build
 ```bash
-git clone https://github.com/YOUR_USERNAME/kafkafka-java.git
+git clone https://github.com/Hrx4/Kafkaaa.git
 cd kafkafka-java
 mvn compile
 ```
@@ -248,7 +248,7 @@ This is a learning project — the following are out of scope:
 
 ## Original Go implementation
 
-This project is a Java port of [kafkafka](https://github.com/ORIGINAL_REPO_LINK) — a Kafka clone written in Go. The Java version preserves the same binary wire protocol, making the producer/consumer clients wire-compatible with the original Go broker.
+This project is a Java port of [kafkafka](https://github.com/Hrx4/Kafkaaa) — a Kafka clone written in Go. The Java version preserves the same binary wire protocol, making the producer/consumer clients wire-compatible with the original Go broker.
 
 ---
 
