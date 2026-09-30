@@ -246,12 +246,6 @@ This is a learning project — the following are out of scope:
 
 ---
 
-## Original Go implementation
-
-This project is a Java port of [kafkafka](https://github.com/Hrx4/Kafkaaa) — a Kafka clone written in Go. The Java version preserves the same binary wire protocol, making the producer/consumer clients wire-compatible with the original Go broker.
-
----
-
 ## License
 
 MIT
